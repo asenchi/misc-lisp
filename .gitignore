@@ -1,0 +1,7 @@
+*.*.swp
+*.pyc
+*~
+*.elc
+*.fasl
+systems/
+.DS_Store
